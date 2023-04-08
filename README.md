@@ -1,4 +1,3 @@
 # Horizon
-In development: E-commerce application implemented for mobile. Studios Celestia Domains
-Work In Progress.
+In development WIP: E-commerce application implemented for mobile. Studios Celestia Domains;
 Momentarily avaiable: startup documentation.
